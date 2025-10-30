@@ -1,23 +1,49 @@
-### Hi there! 👋 I'm Sakshi Yadav
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi 👋, I'm Sakshi Yadav</h1>
+<h3 align="center">💻 Computer Science Undergrad | Frontend Developer | MERN Stack Enthusiast</h3>
 
-💻 **I'm a Computer Science Undergrad at NMIT**  
-🚀 **Passionate about Web Development, AI, and Cloud Computing**  
-🎯 **Aspiring Frontend Developer |  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+building+cool+web+projects;Frontend+%7C+React+%7C+JavaScript" alt="Typing SVG" />
+</p>
 
- 🌱 Currently Learning:
-- Backend Development and Full Stack Development  
-- Data Structures & Algorithms  
-- System Design & CS Fundamentals  
+---
 
+### 🚀 About Me  
+- 🌱 Currently learning **React & Machine Coding**
+- 💡 Interested in **Full Stack Development**
+- 🎯 Goal: Become a **skilled Frontend Engineer**
+- 🗓️ Fun fact: I debug with console.log() 😅  
 
-📫 How to reach me:
-- 📧 Email: sakshiyadav8887@gmail.com  
-- 💼 LinkedIn: [sakshi yadav](https://www.linkedin.com/in/sakshiyadav15/)  
+---
 
-⚡ Fun Fact:
-I love solving DSA problems. 🚀
+### 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,bootstrap,tailwind,vscode,python" />
+</p>
 
-## 📊 GitHub Stats
-![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshiiyad&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshiiyad&layout=compact&theme=radical)
+---
 
+### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshiiyad&show_icons=true&theme=radical" alt="stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshiiyad&theme=radical" alt="streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshiiyad&layout=compact&theme=radical" alt="languages" />
+</p>
+
+---
+
+### 🌍 Let's Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/sakshiiyad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sakshiiyad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+### 👀 Visitor Counter  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakshiiyad&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
+</p>
