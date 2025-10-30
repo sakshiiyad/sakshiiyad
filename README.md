@@ -26,7 +26,8 @@
 ### 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sakshiiyad&show_icons=true&theme=radical" alt="stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshiiyad&theme=radical" alt="streak" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sakshiiyad&theme=radical&hide_border=false" alt="sakshiiyad's streak"/>
+
 </p>
 
 <p align="center">
