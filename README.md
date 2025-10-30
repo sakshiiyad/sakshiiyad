@@ -17,4 +17,7 @@
 ⚡ Fun Fact:
 I love solving DSA problems. 🚀
 
+## 📊 GitHub Stats
+![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshiiyad&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshiiyad&layout=compact&theme=radical)
 
