@@ -2,7 +2,7 @@
 
 💻 **I'm a Computer Science Undergrad at NMIT**  
 🚀 **Passionate about Web Development, AI, and Cloud Computing**  
-🎯 **Aspiring Frontend Developer | Cybersecurity Enthusiast**  
+🎯 **Aspiring Frontend Developer |  
 
  🌱 Currently Learning:
 - Backend Development and Full Stack Development  
@@ -15,6 +15,6 @@
 - 💼 LinkedIn: [sakshi yadav](https://www.linkedin.com/in/sakshiyadav15/)  
 
 ⚡ Fun Fact:
-I love solving DSA problems and sharing my journey on Instagram! 🚀
+I love solving DSA problems. 🚀
 
 
