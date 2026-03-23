@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Sakshi Yadav</h1>
-<h3 align="center">💻 Computer Science Undergrad | Frontend Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">💻 Computer Science Undergrad | Fullstack Developer | MERN Stack </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+building+cool+web+projects;Frontend+%7C+React+%7C+JavaScript" alt="Typing SVG" />
@@ -9,16 +9,15 @@
 ---
 
 ### 🚀 About Me  
-- 🌱 Currently learning **React & Machine Coding**
+- 🌱 Currently learning **Backend Development & Machine Coding**
 - 💡 Interested in **Full Stack Development**
-- 🎯 Goal: Become a **skilled Frontend Engineer**
 - 🗓️ Fun fact: I debug with console.log() 😅  
 
 ---
 
 ### 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,bootstrap,tailwind,vscode,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,bootstrap,tailwind,vscode,typescript" />
 </p>
 
 ---
